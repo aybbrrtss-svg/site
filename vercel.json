@@ -11,5 +11,12 @@
         }
       ]
     }
+  ],
+  "redirects": [
+    {
+      "source": "/jarvis",
+      "destination": "https://github.com/aybbrrtss-svg/Jarvis---Friday/releases/download/v1/JarvisAI.exe",
+      "permanent": false
+    }
   ]
 }
